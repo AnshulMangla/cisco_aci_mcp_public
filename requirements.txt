@@ -1,0 +1,5 @@
+requests
+pydantic
+python-dotenv
+fastmcp
+httpx
