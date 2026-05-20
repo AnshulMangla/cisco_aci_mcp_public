@@ -1,4 +1,4 @@
-<h1 align="center">🤖 Cisco ACI MCP Server<br /><br /></h1>
+<h1 align="center">Community MCP Server for Cisco ACI<br /><br /></h1>
 
 <div align="center">
 <img src="https://img.shields.io/badge/Cisco-ACI-049fd9?style=flat-square&logo=cisco&logoColor=white" alt="Cisco ACI">
